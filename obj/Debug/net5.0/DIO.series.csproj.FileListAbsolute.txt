@@ -1,0 +1,16 @@
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.exe
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.deps.json
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.json
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.runtimeconfig.dev.json
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.dll
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\ref\DIO.series.dll
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\bin\Debug\net5.0\DIO.series.pdb
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.csprojAssemblyReference.cache
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfoInputs.cache
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.AssemblyInfo.cs
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.csproj.CoreCompileInputs.cache
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.dll
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\ref\DIO.series.dll
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.pdb
+E:\Curso de Jogos\App de cadastro de séries\DIO.series\obj\Debug\net5.0\DIO.series.genruntimeconfig.cache
